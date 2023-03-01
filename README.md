@@ -36,8 +36,6 @@ For the Medium test, I utilized a dataset of daily stock prices from January 1st
 - The chart is a time-series line chart that visualizes the stock open prices of two companies, Google and Meta, over a period of three years, from January 1st, 2020 to March 1st, 2023.
 - The chart includes multiple variables, such as the stock prices of both Google and Meta, as well as several important dates, including the start and end dates of each company's price trend and the highest stock price for each company.
 - The chart uses different colors to distinguish between the two companies, with Google shown in a bright orange color and Meta shown in a deep blue color.
-- The chart also includes various annotations, including text labels that display the highest stock prices for each company and important dates, such as the start and end dates of each company's price trend.
-- The chart provides clear and insightful information about the stock prices of both companies and allows viewers to easily compare and contrast the two companies' trends over the three-year period.
 
 ![alt text](https://raw.githubusercontent.com/olivervu25/RSQLiteAdmin-Visualisation-Tools-Tests/master/SOLUTIONS_Test_Medium_1/stock_plot.png)
 
