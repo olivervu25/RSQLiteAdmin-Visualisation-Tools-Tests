@@ -41,3 +41,17 @@ For the Medium test, I utilized a dataset of daily stock prices from January 1st
 
 <hr style="height: 5px; border: none; color: #000000; background-color: #000000; margin: 20px 0px;">
 
+## Medium Test 2 
+
+
+### Description
+
+Create a simple package using the Golem R package that contains a Shiny application to view the chart above.
+
+
+### Solution
+
+For this test, I  created a simple Shiny application for visualizing daily stock prices (my Visualisation of Medium 1) using the Golem R package. The resulting package, Medium2Solution, contains the Shiny application and can be easily installed and run. The app allows users to select a date range and view stock prices for Google and Meta.
+
+![App Testing Screenshot](https://github.com/olivervu25/RSQLiteAdmin-Visualisation-Tools-Tests/blob/master/SOLUTIONS_Test_Medium_2/App%20Testing.png?raw=true)
+
